@@ -1,0 +1,6 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+
+Euclid, Euclid’s Elements: all thirteen books complete in one volume, tr. Thomas L. Heath, ed. Dana Densmore (Santa Fe: Green Lion Press, 2013).
+ 
+'`

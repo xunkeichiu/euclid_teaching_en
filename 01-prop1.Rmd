@@ -1,0 +1,50 @@
+# Discussion I (Prop1)
+
+>On a given finite straight line to construct an equilateral triangle.
+
+Before the first discussion, I have asked Alex to read through the proof in advance. In class, since Alex had already thought about the proof, he made the equilateral triangle by drawing a circle in the same way as Euclid did. Only near the end, I remind him that the last step is not "so triangle ABC is an equilateral triangle", instead, we must declare that the equilateral triangle ABC is constructed on AB. The reason for this is simple: Proposition 1 states that "On a given finite straight line to construct an equilateral triangle", then the construction of an equilateral triangle is only considered to be half part of it, to complete the proof, we must also state that this equilateral triangle is on this assigned finite line.
+
+After the first proof is complete, we begin to examine it carefully together. We notice that after drawing the circle there will be a marker [Axiom 3]. There are four marks in the whole proposition.
+
+> [Postulate 3] (Axiom 3: To describe a circle with any centre and distance.)
+
+> [Postulate 1] (Axiom 1: To draw a straight line from any point to any point.)
+
+> [Definition 15] (Definition 15: A circle is a plane figure contained by one line such that all the straight lines falling upon it from one point among those lying within the figure are equal to one another)
+
+> [Common notion 1] (Axiom 1: Things which are equal to the same thing are also equal to one another.)
+
+This is where our discussion begins.
+
+What is the difference between a postulate and a common notion?
+
+The English word postulate rooted in the Latin postulare, the original ancient Greek word αιτηματα, (αιτεω) means, to ask, to beg. Why is it that a straight line can be drawn between any two points is a postulate, particularly, obtained by begging? This question may seem a bit meaningless, but it is not difficult to understand. Let's ask this question: Is it possible to draw a curve between two points? Can an infinite number of different kinds of lines be drawn? The answer is yes. Any two points, to connect the line in the middle, you can make it like whatever you want. In that case, is a straight line the most special and hard-to-get one among millions of other shapes? Isn't the universalization of a small probability event what we are begging from God for a higher purpose?
+
+Common notions are not quite the same. For the English word common notion, the original ancient Greek root is κοιναι εννοιαι, the former means being common, universal; and the latter refers to a mark, an idea, a concept, etc. Is there any possibility other than “Things which are equal to the same thing are also equal to one another" ? Is there an example of two things equal to the same thing that are not equal to each other? This is undoubtedly very difficult. After all, Euclid only included 5 common notions, and not every widely accepted universal law is listed in the book, the reason and the logic for this pick is left for discussion later.
+
+At this moment, Alex and I have agreed to consider that the postulate is the realization of one of the innumerable possibilities, and the common notions are statements of certain universal truths. Based on this, it is not difficult to understand Postulate 3. Can a circle be drawn only if its center and distance are determined? This is just the way to draw a circle according to the definition of the circle. It may be difficult to imagine another way to draw a circle, but it does not prove that it does not exist. If an animal follows some biological behavior and leaves a trace of a circle on the ground with neither a center nor a distance, it does not deny that it is not a circle (although it seems difficult to prove that it is a circle too)
+
+Let's look closer at the definition of a circle. "A circle is a plane figure contained by one line such that all the straight lines falling upon it from one point among those lying within the figure are equal to one another"  When we think about a circle, is the circle that line or the figure inside the line, or are the two inseparable? Is a circular iron ring a circle? Is a circular clock plane a circle? What is the connection between the purely mathematical concept of a circle and the figurative reality?
+
+This being said, it is also important to think together about what a definition is and why we need it. A very modern example is discussed here with Alex. Probably everyone knows exactly what a computer refers to, but how do we describe a computer to someone who has never seen one before, if we travel back decades, centuries, or millennia? What is the best way to get the point across in a concise way? What kind of content needs to be included in the definition? Is it the style? Is it the nature of it? Is it an essential function? While talking about computers and tablets, I also had to mention Surface as a combined presence, and I invited Alex to think about why there is no word for “computer-tablet”, but rather the name of the product itself, Surface.
+
+This question seems to become easier when there is a realistic comparison. For computers, there are countless brands and styles, desktops, laptops -  Apple, Lenovo, Alienware, etc. Computers are a general term for a broad category. And Surface occupied the market before many brands developed this type of products, thus its own name says all. If one day all brands launch a two-in-one existence of computer and tablet, among many different options, will a new term be born to refer to this category? Or is it the definition of the computer itself that is updated?
+
+There is never the answer for the questions in the discussion session, only opinions. The focus was not the delivery of the final answer but on the process of debate and reflection. For students who have been learning in a traditional classroom, the first step is to be able to speak up, to express himself, and to take the initiative.
+
+In addition to understanding these labels, there is another aspect of this proposition that can be questioned and often overlooked, and that is why do two circles intersect at point C. This can be logically broken down into two questions, firstly why do two circles intersect, and secondly why do they intersect at a point? (*This question can actually be extended to create an art installation. Two circles that do not intersect but are projected to intersect in 3D space.)
+
+Here the intersection of the two circles is implied by a condition: the two circles, drawn with the point A,B as the center of the circle respectively, are on the same plane. In fact, there are countless circles that can be drawn with A as the center and AB as the radius, and the same with B as the center, but if the two circles are intersected, they must be in the same plane. This condition is not stated by Euclid, but by default, when two circles are in the same plane and intersect, the intersecting part is the point, which is also self-evident, because the intersection of two circles is specifically pointed out as the intersection of two lines. But recall that a circle also includes a plane figure enclosed by a line. Is the intersection of a plane figure enclosed by a line not considered an intersection when it is invisible?
+
+What do you think about the problem discussed today?
+
+**Open assignments:**
+
+1. Definition
+Suppose you travel to ancient times and want to describe modern life to a friend, with mentioning computers and tablets, try to define computers and tablets on your own.
+Find the definition of computer and tablet through search engines <br>
+Compare your own definitions with the accepted ones, what do you find?
+
+2. Creation
+Use the equipment at hand to make two circles of the same size and switch the angle to see how they intersect. <br>
+Look at their projections under the light.

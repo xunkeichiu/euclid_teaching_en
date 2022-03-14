@@ -1,0 +1,55 @@
+# Discussion IX (Prop14-16)
+
+## Proposition 14
+>If with any straight line, and at a point on it, two straight lines not lying on the same side make the adjacent angles equal to two right angles, the two straight lines will be in a straight line with one another.
+
+Proposition 14 is a reversal of Proposition 13. Proposition 13 says that the angle between a line and another line must be equal to two right angles. Proposition XIV reverses it and says that if the angle between two lines and the middle line is equal to two right angles, then both lines are on the same line. Of course, it’s our tradition to discuss the necessity of this separation. Why are two propositions proved separately and why are they both needed? To understand the relationship between these two propositions, we have to introduce a piece of knowledge that Alex has not yet learned: the determination of necessary and sufficient conditions.
+
+Let's take a few simple examples to understand the concepts of Necessity and Sufficiency:
+
+ - **Sufficient but not necessary conditions** <br>
+It's raining today and the air humidity is high. <br>
+Because of the rain, the humidity in the air is high. But high air humidity is not necessarily due to rain. Heavy watering and irrigation, or early mornings when it is not raining but foggy, can all lead to high air humidity. So rain is only one of the many possible causes of high air humidity, which we call a sufficient but not necessary condition.
+
+ - **Necessary but not sufficient conditions**<br>
+The phone is charged so that Alex can play with it.<br>
+If the phone has electricity, Alex can play with the phone. If the phone has no electricity, Alex cannot play with the phone. The phone has electricity as a necessary condition for playing with the phone. But when the phone has power, Alex may not be playing with the phone, he may be using it to make phone calls, so it is a necessary but not sufficient condition.
+
+ - **Sufficient and Necessary Condition (Sufficient Condition)**<br>
+Alex got a perfect score on the test. Alex got every question right.<br>
+In fact, a sufficient necessary condition is to change the same meaning into two ways to say it. The definitions in Elements are often of this type, for example: a triangle is an equilateral triangle and the three sides of the triangle are equal. The three sides of an equilateral triangle must be equal, and a triangle with three equal sides must be an equilateral triangle. This can be inferred from each other as a sufficient and necessary condition for each other.
+
+ - **Not necessary and not sufficient conditions**<br>
+It was a beautiful day and Alex ate candy.<br>
+Yesterday the weather was fine, but Alex did not eat a candy; Alex ate a candy the day before, but the weather was bad. This shows that good weather and eating candy are not directly related, but are contingent events, so they are unnecessary and insufficient conditions for each other.
+
+After understanding these four conditions, let's look at proposition 13 and 14 again. Now we understand that Proposition 13 can only say that the proof deduces a conclusion from a condition, and does not tacitly assume that the condition can be deduced inversely from the conclusion. Through Proposition 14, which reverses the condition and the conclusion, we know that the angle between two right angles and a straight line are sufficient and necessary conditions for each other. Because the statement of Proposition 14 is not in the definition, nor in Postulates, nor in Common Notions, so the proof is needed.
+
+Let’s review again the proposition 13 and 14 with a closer look of the involved definitions and postulates:
+	
+>Definition 8: A plane angle is the inclination to one another of two lines in a plane which meet one another and do not lie in a straight line.
+
+>Definition 9: And when the lines containing the angle are straight, the angle is called rectilineal.
+
+>Definition 10: When a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is called a perpendicular to that on which it stands.
+
+>Postulate 4: That all right angles are equal to one another.
+
+Definition 9 is the definition of a right angle, and its usefulness is not obvious here, but if one says that a circle is tangent to a line, this definition avoids the complication here, namely the problem of discussing the magnitude of the angle between an arc and a line.
+It is worth noting that right angles are defined here not by their magnitude but by the description of a specific phenomenon. In other words, even if we have an angle that is exactly equal in size to a "right angle", we cannot say that it is a "right angle" directly by definition, because the definition of a right angle here requires two lines and two adjacent angles. Only in this case that a right angle is a right angle. Therefore, in Proposition 14, we need to make an auxiliary line to retrace the image to apply the concept of a right angle. It is also by the derivation of Proposition 14 that "right angles" are no longer restricted to the equality of the angle between two adjacent lines, but can be used outside of this specific situation, and "two right angles" is thus transformed into a quantity that is measured by the unit right angle, even as a new unit itself. Instead of constructing a right angle, a straight line can be drawn to directly declare the being of two right angles.
+
+Postulate 4, That all right angles are equal to one another. It seems strange because since right angles are defined, shouldn't all angles be equal to each other as a matter of fact, if all they are right angles? In that case, it should be a common notion rather than a postulate. We might easily have thought that Euclid had taken into account the case of curved surfaces, but I think it is not right to interpret it that way, because after all, no other definition or proposition could be seen to mention the consideration of curved surfaces. After reconnecting Definition 10 and Postulate 4,  I realized that it was like this: the right angle in Definition 10 is a phenomenon, while Postulate 4 is a transformation from a phenomenon to a unit of measure. We begged for this transformation process to be free of error. Postulate 4, Definition 10 and Proposition 14 together extend the concept and application of right angles. Also for this proposition, Alex observes that it is important to restrict the scope to the plane. On a curved surface there would be no guarantee that two straight lines are on the same line.
+
+## Proposition 15
+>If two straight lines cut one another, they make the vertical angles equal to one another.
+
+Proposition 15 is very short and simple, but I was surprised by Alex. It seems that we reach a moment where he doesn’t ask why an obvious statement needs a proof. The effect of this discussion class seems to start to work. Thus, I throw back the question to Alex, why do we need to prove this? Alex has grown accustomed to proving propositions that seem self-explanatory, and in his words, anything that is not in the definition/postulate/common notion needs to be proved. Then why not write it into the definition/postulate/common notion? Because we only save the most basic and necessary principles in the primary library. All that can be deducted is excluded in the library. Alex seems to have gotten better at understanding the rigor of logic.
+
+## Proposition 16
+>In any triangle, if one of the sides be produced, the exterior angle is greater than either of the interior and opposite angles.
+
+However, immediately following Proposition 16, Alex again thinks, if the exterior angle is equal to the sum of the other two interior angles, then it must be greater than either of the interior angles. He mixes his advanced math with Euclid’s proof again. We always choose to prove instead of arguing, i.e., let Alex prove that the exterior angle is equal to the sum of the two interior angles. Alex tries, but finds that none of the required theorems are proved, such as parallel congruent angles and equality of interior angles. We end up going back to Euclid to see how he proved it. Although all of our attempts failed, it is meaningful because it helped Alex understand the validity of the proposition here and the cleverness of Euclid's method of proof.
+
+**Open Assignment:**
+
+ - The if loop in the programming, what kind of Necessity and Sufficiency condition it applied? Can you explain why?

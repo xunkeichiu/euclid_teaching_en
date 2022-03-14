@@ -1,0 +1,46 @@
+# Discussion XIII  (Prop 25-28)
+
+We cover proposition 25 to 28 in this chapter.
+
+## Proposition 25
+>If two triangles have the two sides equal to two sides respectively, but have the base greater than the base, they will also have the one of the angles con- tained by the equal straight lines greater than the other.
+
+Proposition 24 and Proposition 25 are connected, and even very similar, in that both look at the relationship between the top and bottom angles after fixing the two sides of the triangle. Proposition 24 says that the larger top angle corresponds to the longer bottom side, while Proposition 25 proves it again in an opposite direction, that the longer bottom side corresponds to the larger top angle. If we look at Proposition 24 and Proposition 25 together, we see that both are reductio ad absurdum, and they both disprove by first eliminating equality and then eliminating the less-than case. This is where I once again ask Alex how he feels about the converse method and whether he thinks that it has sufficient explanatory power. 
+
+Alex uses an analogy here: the reductio ad absurdum seems to be binary and seems to consider only 0 and 1, so what if there are other hidden cases? This question nicely reveals the limitations of reductio ad absurdum, the counterfactual, which is to prove that cases other than the statement are wrong, and therefore can only admit the correctness of the statement. The weakest part here is not proving the wrongness of the other cases, but the fact that in enumerating all cases not all possibilities are listed. In Euclid's proof, three cases are considered, greater than, equal to, and less than. Suppose I set up an abstract world that is a replica of real life, with no identical existence, a "system of inequalities", would I be able to never consider the case of equals when proving in this new system? In Euclid's system, is it possible to disprove many of the propositions in the "unequal system" because of the possibility of equality? Does another new system exist that is related to the Euclidean system in the same way as the Euclidean system is related to the "unequal system", in another way, except for the cases of greater than, less than, and equal, such as "approximately equal"? At this point, the proposition proved by the reductio ad absurdum is not invalid? But the existence of "approximately equal to" does not affect the rest of the proof? Then can we declare that the argument of the reductio ad absurdum is not convincing enough?
+
+There is one more point to ponder about Proposition 24 and Proposition 25. Why is it necessary to prove that Proposition 24 comes before Proposition 25? Can the order be reversed here? If we look at the citation in the proof, we will find that Proposition 24 needs to refer to Proposition 23, and 23 will use 22. It seems that the order of 24 before 25  has been prepared since 22. If we wish to prove the long side to the large angle (25) first and then the large angle to the long side (24), can you do it? Do you need additional propositional assistance? Alex needs to think about this carefully in class.
+
+## Proposition 26
+>If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, or that subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides and the remaining angle to the remaining angle.
+
+The next proposition 26 is very long. Alex says that when he sees it, he thinks it is "long, annoying and difficult", but in fact, long propositions are not necessarily difficult, sometimes there are short propositions that are proven in a different way, but more difficult to think about. The argument of Proposition 26 is divided into two parts, the first part is ASA and the second part is AAS, and each part proves again that in the case of ASA and AAS, respectively, the remaining parts of the triangle are equal. And the format of its proof is the same, assuming that the corresponding sides of one of the remaining sets are not equal, and setting one of them longer than the other, but this will lead to the impossibility of the corresponding angles, so the remaining sides must be equal, and then the remaining angles must also be equal. In this way, Proposition 26 is first split into two halves, each of which is not as long as the previous proposition, and then the remaining half is quickly understood by looking closely at one of the halves.
+
+This proposition complements the previous method of proving congruence, and the four methods of proving congruence are now complete: SSS, SAS, ASA, and AAS.
+
+Differently from the writing order here, in the actual class, we studied Proposition 27 and Proposition 28 with Alex first, because it happened that the math class in school was also teaching parallelism, and we not only look at Euclid's proofs together, but also look at the proofs from the selected readings in the textbook. Comparing the two proofs, we vote unanimously for Euclid, which is more convincing and reliable.
+
+The reason why the order in which the proofs were studied could be switched here is that the farthest proposition from Proposition 27 is followed by Proposition 16, and from Proposition 17 to Proposition 25, which is not directly related to Proposition 27. We can understand it this way, even though the numbers after the propositions are sequentially increasing, and in fact two mutually undisturbed branches develop from proposition 16 onwards, one from 17 to 25, and the other direction from 27, and these two directions cross afterwards. At this point I just want Alex to notice this, and at the end of the first volume I would like Alex to make a hand-drawn or mind-mapped diagram of the connections between the propositions, looking at the logical lines of the 48 propositions in the first volume from a more macro perspective.
+
+## Proposition 27
+>If a straight line falling on two straight lines make the alternate angles equal to one another, the straight lines will be parallel to one another.
+
+Proposition 28 continues to develop the new branch. Proposition 27 and 28 are both related to parallelism and both are about the conditions for determining parallelism, after which we will study the properties of parallelism (Proposition 29). Here again we recall the definition of parallel lines.
+
+>Definition 23: Parallel straight lines are straight lines which, being in the same plane and being produced indefinitely in both directions, do not meet one another in either direction.
+
+Just looking at Definition 23, we can also understand that this definition is not able to help us determine a set of parallel lines, because it requires that the lines remain disjoint at infinity, and our propositions in figuration are proven in the present, and therefore we need to reset other conditions of determination, equivalent to infinite extension and disjoint, or as a result of this infinite extension and disjoint is further deduced that can be placed in the zone midway between it and parallel, and that is how Proposition 27 was born. The case of reciprocal equal interior angles, where the line extends in both directions without intersecting, also satisfies the definition parallel.
+
+## Proposition 28
+>If a straight line falling on two straight lines make the exterior angle equal to the interior and opposite angle on the same side, or the interior angles on the same side equal to two right angles, the straight lines will be parallel to one another.
+
+Proposition 28 can actually be split into two sub-propositions:
+
+ - congruent angles are equal and the two lines are parallel.
+ - two lines are parallel if the interior angles are complementary
+
+Instead of proving parallelism directly by definition, this proof is converted into Proposition 27 to prove parallelism, making the steps more concise.
+
+**Open Assignment:**
+
+ - Think about examples in your favorite strategy game, identifying the actions that have been done in the game is not making an effect immediately, but after a while. Explain why.

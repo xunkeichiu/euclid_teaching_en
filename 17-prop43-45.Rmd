@@ -1,0 +1,20 @@
+# Discussion XVII  (Prop 43-45)
+
+Following the last discussion, we are still focused on parallelogram in this class, and we learn and discuss Proposition 42 to 45.
+
+## Proposition 43
+> In any parallelogram the complements of the parallelograms about the diameter are equal to one another.
+
+Proposition 43 is summed up in one sentence by repeatedly applying Common notion 3. The remainder of equal quantities minus equal quantities minus equal quantities again is always equal. When a set of congruent triangles is subtracted from two sets of lesser congruent triangles, the area of the remaining quadrilateral is still equal. The proof is not difficult, just remember the areas which the new concept of complementary shape refers to. The other thing is that this proposition is a good illustration of the concept of separation of area and shape. The two complementary shapes are equal in area but different in shape, implying that the concept of equality in mathematics focuses on area (quality) rather than shape (form), and that mathematics wants to think about and compare content beyond visual awareness.
+
+## Proposition 44
+>To a given straight line to apply, in a given rectilineal angle, a parallelogram equal to a given triangle.
+
+Proposition 44 is an upgraded version of Proposition 42, which limits the size and area of the angles to draw parallelograms under the condition that they have the same base as the known triangle. Proposition 44, here once again, moves the position of the base, that is, separates it from the triangle more completely, keeping only the relationship on the area, while there is no connection on the position at all. In conjunction with the previous propositions, it can be seen that Euclid's proofs all eventually move toward independence, finding connections while leaving them separate to be able to exist alone without interference. So why is this proposition not proved immediately after the proof of 42? Here is a review of what has been said before. Because proposition 43 is also part of the reasoning, and the fact that proposition 43 is separated out also indicates that it has its own value of the independent existence and may be repeatedly referenced later by other proofs. If we put the whole contents of volume I together and draw all the propositional statements, then it is also a big exposition in itself, yet we cut it again into different parts and make statements for better repeated use of a certain part, which is easy to locate and find. (The same is true for programming to write code)
+
+## Proposition 45
+>To construct, in a given rectilineal angle, a parallelogram equal to a given rectilineal figure.
+
+Proposition 45 further breaks the restriction by not only separating the known and the desired completely, but also by redefining the known part irregularly. The graph breaks the limits of the triangle, but is equal to just any linear shape. And the most interesting method here lies in separation and reorganization. That is, you can first satisfy other conditions by drawing line segments and figures separately, and then later reverse the process by proving that the straight line angle is equal to two right angles, so it is the same straight line and then merge the separated figures together. This tip also applies to the practice of geometry exercises in middle school, when drawing the auxiliary line is done to extend or first meet other conditions and then prove that it is on the extension line, which is a problem of skillful choice.
+
+Proposition 45 is the last proposition before the square appears. This proposition ends with a recreation, and although I am repeating it, this philosophical question is really important and deserves to be thought about again and again: what is the meaning of mathematics?

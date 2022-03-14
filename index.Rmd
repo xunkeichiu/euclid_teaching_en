@@ -1,0 +1,35 @@
+--- 
+title: "Elements Teaching Notes"
+author: "宣棋 | Xuanqi"
+date: "Spring 2021"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Teaching notes of Euclid's Elements
+link-citations: yes
+#github-repo: rstudio/bookdown-demo
+---
+
+# Preface {-}
+
+This is a translation work of the book written originally in Mandarin ([《几何原本》教学手记](https://xunkeichiu.github.io/euclid_teaching/)). Technical translation was used for acceleration. 
+
+## Forewords {-}
+
+In August 2020, I had the opportunity to teach Euclid’s Elements, and the teaching of the first volume lasted about 3 months and took about 30 teaching hours. I took notes before and after each class. This teaching note is recommended to be read in conjunction with Euclid's Elements, particularly If you are not familiar with the geometry, you may need to preview all the propositions first.
+
+Note: The first ten lessons will last between one and one and a half hours, and from the eleventh lesson onwards, the lessons will last between one and a half and two hours. There are review sessions in between that are not counted, and the total teaching time should be around 30 hours.
+
+The study journey of the first volume of Euclid’s Elements started in August 2020.
+
+## Prologue {-}
+Mathematics is a fundamental subject that is required for every student. However, the learning style varies and in the traditional classroom (China), students learn formulas, operations, and other laws as a recipient, while exams are given to see if students can apply what they have learned and solve problems correctly. In my discussion class  of Euclid, it is not about asking students to master or memorize any single definition or proposition, but to go into the source of mathematics together to observe and explore its original formation. If mathematics is a skyscraper today, the point of the discussion is to pick up the shovel and carefully shovel away the soil to observe the original foundation: How was it designed? What was the thinking behind it? Is there anything that can be questioned or overturned? What are the basic laws of "mathematics" as a discipline here? All of these questions are open-ended, and the answers will vary with the degree of individual learning.
+
+Because the student may not be used to the discussion class, I do not start with the definition section at the beginning. Imagine that you ask students on the first day of class, "A point has no parts," what is a "part"? Such a question would probably not be understood, even sounds weird to an adult, and would be very metaphysical. Thus I planned to start with the proposition which is similar to the geometry math problem in middle school, and then go back and discuss the definition in reverse.
+
+For this discussion class, they were just Alex and I. In the summer of 2020, Alex was a middle school student, living in Shanghai, and he was preparing his second year of middle school. Because he is a gifted student, he had skipped two grades in elementary school, and was slightly younger than the students in his class. Since I was in Europe, all the discussions have been delivered  through online teaching. 
+
+I would like to thank Angela (Alex' mother) for her support and trust. Without her, Alex and I would not put aside the test-based math studies and we could not spend our time exploring math freely. With a grateful heart, I have recorded my ideas and thoughts about the lessons in my notebook.
